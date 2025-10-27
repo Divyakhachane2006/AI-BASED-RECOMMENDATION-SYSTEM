@@ -100,3 +100,6 @@ OUTPUT:-
     In conclusion, this Java-based recommendation engine using Apache Mahout showcases how machine learning techniques can be effectively implemented in real-world applications. It offers a practical example for      developers interested in data science, personalization engines, and full-stack application design.
 
 OUTPUT:-
+
+
+<img width="839" height="407" alt="Image" src="https://github.com/user-attachments/assets/2272f498-087a-49ee-b2ca-17e4b8fb9659" />
